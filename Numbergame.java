@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.Random;
 public class Numbergame{
     public static void main(String[]args){
-        Scanner SC = new Scanner(System.in);-
+        Scanner SC = new Scanner(System.in);
         Random random = new Random();
         int MinRange = 1;
         int MaxRange = 100;
